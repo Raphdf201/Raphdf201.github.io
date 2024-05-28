@@ -1,1 +1,0 @@
-searchState.loadedDescShard("searcher_txt", 0, "minigrep lib\nContains the fields for the search engine/arguments\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nRuns the search engine, reads the file specified in the …\nSearches the query in a file")
