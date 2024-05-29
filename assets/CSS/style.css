@@ -1,16 +1,12 @@
 @font-face {
-  font-family: Jetbrains Mono Regular;
-  src: url(./assets/fonts/JetbrainsMono/JetBrainsMono-Regular.ttf);
-}
-@font-face {
-  font-family: Jetbrains Mono Italic;
-  src: url(./assets/fonts/JetbrainsMono/JetBrainsMono-Italic.ttf);
+  font-family: Jetbrains Mono;
+  src: url(../fonts/JetbrainsMono/JetBrainsMono-Regular.ttf);
 }
 
 * {
-  font-family: Jetbrains Mono Regular;
+  font-family: Jetbrains Mono;
 }
 
 a {
-  font-family: Jetbrains Mono Italic;
+  font-family: Jetbrains Mono;
 }
