@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Jetbrains Mono;
+  src: url(https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/fonts/JetbrainsMono/JetBrainsMono-Regular.ttf);
+}
+
+* {
+  font-family: Jetbrains Mono;
+  background-color: #222;
+  color: white;
+}
+
+footer {
+  bottom: 20px;
+}
