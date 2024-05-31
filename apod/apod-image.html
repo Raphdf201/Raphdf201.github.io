@@ -5,15 +5,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="./apod-image.css" rel="stylesheet" />
+    <link
+      href="https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/darkMode/darkMode_BR.css"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <div class="back">
-      <a href="../index.html">Back to main</a>
+    <div class="apod-image">
+      <img
+        id="imageUrl"
+        alt="There is no image today, please go back and use the Video button"
+      />
+      <script src="./apod-image.js"></script>
     </div>
-    <img
-      id="imageUrl"
-      alt="There is no image today, please go back and use the Video button"
-    />
-    <script src="./apod-image.js"></script>
+    <div class="back">
+      <a href="./apod-index.html">Back to apod</a><br />
+      <a href="../index.html">Back to sitemap</a>
+    </div>
+    <button class="dark-button" onclick="toggleMode()">Toggle dark mode</button>
+    <script src="https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/darkMode/darkMode.js"></script>
   </body>
 </html>
