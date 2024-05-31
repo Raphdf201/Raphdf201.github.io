@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Jetbrains Mono;
+    src: url(https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/fonts/JetbrainsMono/JetBrainsMono-Regular.ttf);
+}
+
+* {
+    font-family: Jetbrains Mono;
+}
+
+.head {
+    text-align: center;
+}
+
+.title {
+    font-size: 5vh;
+}
+
+.b {
+    color: #006eff;
+}
+
+.i {
+    color: #3cff00;
+}
+
+.n {
+    color: #ff0000;
+}
+
+.g {
+    color: #00ff95;
+}
+
+.search {
+    background-color: #222;
+}
