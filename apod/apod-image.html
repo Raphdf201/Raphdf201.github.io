@@ -11,7 +11,7 @@
     />
   </head>
   <body>
-    <div class="loading"></div>
+    <div class="loading">
       <h1>Loading ...</h1>
       <div class="loading-container">
         <div class="number"><span id="loadCount">0</span><span>%</span></div>
@@ -20,14 +20,15 @@
         </div>
       </div>
     </div>
-    <header></header>
-    <div class="apod-image">
-      <img
-        id="imageUrl"
-        alt="There is no image today, please go back and use the Video button"
-      />
-      <script src="./apod-image.js"></script>
-    </div>
+    <header>
+      <div class="apod-image">
+        <img
+          id="imageUrl"
+          alt="There is no image today, please go back and use the Video button"
+        />
+        <script src="./apod-image.js"></script>
+      </div>
+    </header>
     <div class="back">
       <a href="./apod-index.html">Back to apod</a><br />
       <a href="../index.html">Back to sitemap</a>
