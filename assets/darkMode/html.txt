@@ -1,0 +1,6 @@
+<button class="dark-button" onclick="toggleMode()">Toggle dark mode</button>
+<script src="https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/darkMode/darkMode.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/Raphdf201/Raphdf201.github.io@main/assets/darkMode/darkMode_BR.css" rel="stylesheet"/> - Bottom right
+                                                                                                    BL - Bottom left
+                                                                                                    TR - Top right
+                                                                                                    TL - Top left
