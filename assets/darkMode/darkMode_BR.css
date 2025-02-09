@@ -1,11 +1,11 @@
 body {
-    background-color: white;
-    color: black;
+    background-color: #222;
+    color: white;
 }
 
 .dark-mode {
-    background-color: #222;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .dark-button {
